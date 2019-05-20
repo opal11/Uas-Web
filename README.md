@@ -1,2 +1,0 @@
-# Uas-Web
-CardoShop
